@@ -183,9 +183,9 @@
 **Oi:** Quantidade de Olddrunk usada para produzir cada mistura (mistura = i).
 > **Obs**: tirei o 'X' das variáveis de decisão do enunciado pra facilitar a leitura.
 
-**MIX_i:** Soma das quantidades de Sirney, Hangover e Olddrunk usadas para produzir a mistura (mistura = i).
-**QTD_i:** Quantidade de de cada malte utilizada (malte = i).
-**COMP_i:** Restrições de composição das misturas quanto à % dos maltes.
-**REDUCED COST:** Quanto precisaria aumentar o preço de venda de cada mistura para que ela se torne viável de ser produzida.  
-**DUAL PRICES (para QTD_i):** Qual seria o impacto no lucro total caso a quantidade de cada malte fosse incrementada.
+**MIX_i:** Soma das quantidades de Sirney, Hangover e Olddrunk usadas para produzir a mistura (mistura = i).  
+**QTD_i:** Quantidade de de cada malte utilizada (malte = i).  
+**COMP_i:** Restrições de composição das misturas quanto à % dos maltes.  
+            **REDUCED COST:** Quanto precisaria aumentar o preço de venda de cada mistura para que ela se torne viável de ser produzida.  .  
+**DUAL PRICES (para QTD_i):** Qual seria o impacto no lucro total caso a quantidade de cada malte fosse incrementada.  
 **DUAL PRICES (para COMP_i):** Qual seria o impacto no lucro total caso a restrição de composição de cada mistura fosse incrementada.
